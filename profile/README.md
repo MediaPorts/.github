@@ -8,7 +8,7 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [x] libdvdnav
  - [x] libdvdcss
  - [x] libbluray
- - [ ] libsoxr
+ - [x] libsoxr (https://gitlab.com/shinchiro/soxr/-/blob/master/CMakeLists.txt)
  - [ ] libzimg (with graphengine)
  - [ ] libudfread
  - [ ] libmysofa (https://github.com/microsoft/vcpkg/pull/38368)
