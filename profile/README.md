@@ -1,5 +1,7 @@
 # Port libmpv for vcpkg
 
+https://github.com/microsoft/vcpkg/pull/40587
+
 ## The libraries listed below are missing from vcpkg, need porting with some patch fixes.
 
  - [x] libdvdread
