@@ -23,7 +23,7 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [ ] libva
  - [ ] xvidcore (1.3.7)
  - [ ] libzvbi
- - [ ] svtav1
+ - [x] svtav1 (https://gitlab.com/AOMediaCodec/SVT-AV1/-/blob/master/CMakeLists.txt)
  - [x] libaribcaption (https://github.com/xqq/libaribcaption/blob/master/CMakeLists.txt)
  - [ ] vapoursynth (R65/R63)
 
