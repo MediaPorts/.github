@@ -13,10 +13,10 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [ ] libudfread
  - [ ] libmysofa
  - [ ] avisynth-headers
- - [ ] libvpl
+ - [x] libvpl (https://github.com/intel/libvpl/blob/main/CMakeLists.txt)
  - [ ] libplacebo (with glad, fast_float, xxhash)
  - [ ] libbs2b
- - [ ] uavs3d
+ - [x] uavs3d (https://github.com/uavs3/uavs3d/blob/master/CMakeLists.txt)
  - [ ] davs2
  - [ ] libsixel
  - [ ] libdovi
@@ -24,7 +24,7 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [ ] xvidcore (1.3.7)
  - [ ] libzvbi
  - [ ] svtav1
- - [ ] libaribcaption
+ - [x] libaribcaption (https://github.com/xqq/libaribcaption/blob/master/CMakeLists.txt)
  - [ ] vapoursynth (R65/R63)
 
 
