@@ -11,7 +11,7 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [ ] libsoxr
  - [ ] libzimg (with graphengine)
  - [ ] libudfread
- - [ ] libmysofa
+ - [ ] libmysofa (https://github.com/microsoft/vcpkg/pull/38368)
  - [ ] avisynth-headers
  - [x] libvpl (https://github.com/intel/libvpl/blob/main/CMakeLists.txt)
  - [ ] libplacebo (with glad, fast_float, xxhash)
