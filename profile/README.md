@@ -12,7 +12,7 @@ https://github.com/microsoft/vcpkg/pull/40587
  - [ ] libzimg (with graphengine)
  - [ ] libudfread
  - [x] libmysofa (https://github.com/microsoft/vcpkg/pull/38368, https://github.com/hoene/libmysofa/blob/main/CMakeLists.txt)
- - [ ] avisynth-headers
+ - [x] avisynth-headers (https://github.com/AviSynth/AviSynthPlus/blob/master/CMakeLists.txt)
  - [x] libvpl (https://github.com/intel/libvpl/blob/main/CMakeLists.txt)
  - [ ] libplacebo (with glad, fast_float, xxhash)
  - [ ] libbs2b
