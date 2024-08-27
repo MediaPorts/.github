@@ -5,7 +5,7 @@
  - [x] libdvdread
  - [x] libdvdnav
  - [x] libdvdcss
- - [ ] libbluray
+ - [x] libbluray
  - [ ] libsoxr
  - [ ] libzimg (with graphengine)
  - [ ] libudfread
